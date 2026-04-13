@@ -1,0 +1,4 @@
+repository=https://github.com/nlobdell/ghosted-authenticator.git
+commit=3b6475fcb1ce04062d76407192bad49d4e37f6fb
+authors=Smirk
+warning=This plugin sends your RuneScape account hash and current username to ghosted.smirkhub.com when you choose to link your account.
